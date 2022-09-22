@@ -1,0 +1,15 @@
+D:\code\hello-world\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\first_hello.exe
+D:\code\hello-world\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\first_hello.deps.json
+D:\code\hello-world\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\first_hello.runtimeconfig.json
+D:\code\hello-world\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\first_hello.dll
+D:\code\hello-world\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\first_hello.pdb
+D:\code\hello-world\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\first_hello.csproj.AssemblyReference.cache
+D:\code\hello-world\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\first_hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\hello-world\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\first_hello.AssemblyInfoInputs.cache
+D:\code\hello-world\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\first_hello.AssemblyInfo.cs
+D:\code\hello-world\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\first_hello.csproj.CoreCompileInputs.cache
+D:\code\hello-world\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\first_hello.dll
+D:\code\hello-world\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\first_hello.dll
+D:\code\hello-world\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\first_hello.pdb
+D:\code\hello-world\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\first_hello.genruntimeconfig.cache
+D:\code\hello-world\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\first_hello.dll
